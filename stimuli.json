@@ -1,0 +1,204 @@
+{
+  "emotions": [
+    {
+      "id": "E001",
+      "audio": "audio/E001.wav",
+      "emotion": "Sad"
+    },
+    {
+      "id": "E002",
+      "audio": "audio/E002.wav",
+      "emotion": "Frustrated / angry"
+    },
+    {
+      "id": "E003",
+      "audio": "audio/E003.wav",
+      "emotion": "Sad"
+    },
+    {
+      "id": "E004",
+      "audio": "audio/E004.wav",
+      "emotion": "Sad"
+    },
+    {
+      "id": "E005",
+      "audio": "audio/E005.wav",
+      "emotion": "Surprised"
+    },
+    {
+      "id": "E006",
+      "audio": "audio/E006.wav",
+      "emotion": "Neutral"
+    },
+    {
+      "id": "E007",
+      "audio": "audio/E007.wav",
+      "emotion": "Curious"
+    },
+    {
+      "id": "E008",
+      "audio": "audio/E008.wav",
+      "emotion": "Neutral"
+    },
+    {
+      "id": "E009",
+      "audio": "audio/E009.wav",
+      "emotion": "Uncertain / hesitant"
+    },
+    {
+      "id": "E010",
+      "audio": "audio/E010.wav",
+      "emotion": "Uncertain / hesitant"
+    },
+    {
+      "id": "E011",
+      "audio": "audio/E011.wav",
+      "emotion": "Frustrated / angry"
+    },
+    {
+      "id": "E012",
+      "audio": "audio/E012.wav",
+      "emotion": "Curious"
+    },
+    {
+      "id": "E013",
+      "audio": "audio/E013.wav",
+      "emotion": "Surprised"
+    },
+    {
+      "id": "E014",
+      "audio": "audio/E014.wav",
+      "emotion": "Curious"
+    },
+    {
+      "id": "E015",
+      "audio": "audio/E015.wav",
+      "emotion": "Neutral"
+    },
+    {
+      "id": "E016",
+      "audio": "audio/E016.wav",
+      "emotion": "Uncertain / hesitant"
+    },
+    {
+      "id": "E017",
+      "audio": "audio/E017.wav",
+      "emotion": "Surprised"
+    },
+    {
+      "id": "E018",
+      "audio": "audio/E018.wav",
+      "emotion": "Sad"
+    },
+    {
+      "id": "E019",
+      "audio": "audio/E019.wav",
+      "emotion": "Frustrated / angry"
+    },
+    {
+      "id": "E020",
+      "audio": "audio/E020.wav",
+      "emotion": "Neutral"
+    },
+    {
+      "id": "E021",
+      "audio": "audio/E021.wav",
+      "emotion": "Excited / happy"
+    },
+    {
+      "id": "E022",
+      "audio": "audio/E022.wav",
+      "emotion": "Uncertain / hesitant"
+    },
+    {
+      "id": "E023",
+      "audio": "audio/E023.wav",
+      "emotion": "Frustrated / angry"
+    },
+    {
+      "id": "E024",
+      "audio": "audio/E024.wav",
+      "emotion": "Surprised"
+    },
+    {
+      "id": "E025",
+      "audio": "audio/E025.wav",
+      "emotion": "Excited / happy"
+    },
+    {
+      "id": "E026",
+      "audio": "audio/E026.wav",
+      "emotion": "Curious"
+    },
+    {
+      "id": "E027",
+      "audio": "audio/E027.wav",
+      "emotion": "Excited / happy"
+    },
+    {
+      "id": "E028",
+      "audio": "audio/E028.wav",
+      "emotion": "Excited / happy"
+    }
+  ],
+  "pairs": [
+    {
+      "id": "P01",
+      "audio_a": "audio/E020.wav",
+      "audio_b": "audio/E007.wav"
+    },
+    {
+      "id": "P02",
+      "audio_a": "audio/E008.wav",
+      "audio_b": "audio/E012.wav"
+    },
+    {
+      "id": "P03",
+      "audio_a": "audio/E020.wav",
+      "audio_b": "audio/E026.wav"
+    },
+    {
+      "id": "P04",
+      "audio_a": "audio/E008.wav",
+      "audio_b": "audio/E007.wav"
+    },
+    {
+      "id": "P05",
+      "audio_a": "audio/E006.wav",
+      "audio_b": "audio/E014.wav"
+    },
+    {
+      "id": "P06",
+      "audio_a": "audio/E015.wav",
+      "audio_b": "audio/E014.wav"
+    },
+    {
+      "id": "P07",
+      "audio_a": "audio/E006.wav",
+      "audio_b": "audio/E012.wav"
+    },
+    {
+      "id": "P08",
+      "audio_a": "audio/E015.wav",
+      "audio_b": "audio/E026.wav"
+    }
+  ],
+  "profiles": [
+    {
+      "id": "V01",
+      "audio": "audio/E020.wav"
+    },
+    {
+      "id": "V02",
+      "audio": "audio/E008.wav"
+    },
+    {
+      "id": "V03",
+      "audio": "audio/E015.wav"
+    },
+    {
+      "id": "V04",
+      "audio": "audio/E006.wav"
+    }
+  ]
+}
